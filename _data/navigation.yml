@@ -3,6 +3,9 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
+  - title: "Course Work"
+    url: /coursework/
+
   - title: "Publications"
     url: /publications/
 

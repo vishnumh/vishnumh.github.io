@@ -85,9 +85,9 @@ author:
   bio              : "Robotics | Computer Vision | Machine Learning | Self - Driving Cars Enthusiast"
   location         : "Pittsburgh, PA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :  "vmanihem@andrew.cmu.edu | vmanihem@gmail.com"
+  pubmed           : 
+  googlescholar    : 
+  email            :  "vmanihem@andrew.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
