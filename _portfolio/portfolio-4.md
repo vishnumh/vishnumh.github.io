@@ -1,10 +1,10 @@
 ---
 title: "Graph based surface color reconstruction on meshes"
-excerpt: "Garment parsing results <br/><img src='/images/graph.gif'>" 
+excerpt: "Feature propagation results <br/><img src='/images/graph.gif'>" 
 collection: portfolio
 ---
 
-Worked on graph-based feature propagation method for color reconstruction in meshes. 
+Explored graph-based feature propagation method for color reconstruction in meshes. 
 
 Learning outcomes : 
 1. Introduction to Pytorch Geometric. 
