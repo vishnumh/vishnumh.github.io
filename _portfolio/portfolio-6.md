@@ -1,6 +1,6 @@
 ---
 title: "OpenGL Rendering"
-excerpt: "Rendering results <br/><img src='/images/normalrender.gif' width="355" height="200">" 
+excerpt: "Rendering results <br/><img src='/images/normalrender.gif'>" 
 collection: portfolio
 ---
 

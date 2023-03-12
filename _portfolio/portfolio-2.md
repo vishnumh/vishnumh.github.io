@@ -1,6 +1,6 @@
 ---
 title: "Single view 3D Human reconstruction using Implicit functions"
-excerpt: "Reconstruction results <br/><img src='/images/pifu.png' width="355" height="200">" 
+excerpt: "Reconstruction results <br/><img src='/images/pifu.png'>" 
 collection: portfolio
 ---
 
