@@ -1,6 +1,6 @@
 ---
 title: "3D Object Detection and Velocity Estimation for Autonomous Vehicles"
-excerpt: "Velocity and detection results <br/><img src='/images/ab3dmot.gif'>" 
+excerpt: "Velocity and detection results <br/><img src='/images/abmot.gif'>" 
 collection: portfolio
 ---
 
