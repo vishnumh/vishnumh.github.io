@@ -1,6 +1,6 @@
 ---
-title: "Masters Thesis"
-excerpt: "Regressing SMPLX fitting onto images<br/><img src='/images/smplx.png'>"
+title: "Regressing SMPLX fitting onto images"
+excerpt: "SMPLX fitting results <br/><img src='/images/smplx.gif'>" 
 collection: portfolio
 ---
 
