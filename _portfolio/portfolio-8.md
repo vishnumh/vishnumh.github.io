@@ -11,7 +11,7 @@ The idea is to not use lidar for depth and velocity estimation for AVs. To achie
 Learning outcomes : 
 1. Basics of 3D object detection, constant velocity Kalman filter and Hungarian Algorithm 
 2. Backbone - CenterNet
-3. Optimization and loss functions - Inverse sigmoid, Uncertainity based L1 loss, Behru loss, Scale Invariant loss
+3. Optimization and loss functions - Inverse sigmoid, Uncertainty based L1 loss, Behru loss, Scale Invariant loss
 
 
 Programming Language:
