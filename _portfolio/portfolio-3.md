@@ -1,14 +1,14 @@
 ---
-title: "Regressing SMPLX fitting onto images"
-excerpt: "SMPLX fitting results <br/><img src='/images/smplx.gif'>" 
+title: "3D Garment extraction using cloth landmarks"
+excerpt: "Garment parsing results <br/><img src='/images/garmentparsing.png'>" 
 collection: portfolio
 ---
 
-SMPL is an articulated model to represent under clothed human. SMPLX is an extension of SMPL which includes an articulated expressive models for hands into SMPL. I worked on implementing State of the art models for fitting SMPLX onto reference images and regress COCO 3D keypoints for a downstream task.
+Worked on training HRNet using DeepFasion 2D dataset to estimate cloth landmarks in reference images. Used these estimated key points and 3D reconstructed humans from a single view to perform garment parsing.
 
 Learning outcomes : 
-1. Parametric modelling of Pose (55 rotational poses - 22 joints for the body, 30 for finger and 3 jaw joints)
-2. Copy-Paste integration for including hand articulated models into SMPL.
+1. Orthographic projection models and coordinate systems
+2. Multi-GPU training - Data-Parallel and Distributed Data-Parallel.
 
 Programming Language:
 Pytorch, Python
