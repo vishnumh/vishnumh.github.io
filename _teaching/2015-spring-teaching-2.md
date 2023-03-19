@@ -4,6 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: 
 venue: "CMU"
-date: ""
+date: 2021-01-15
 location: "Pitt, USA"
 ---
