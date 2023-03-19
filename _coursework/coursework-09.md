@@ -1,6 +1,6 @@
 ---
 title: "Linear Control Systems and SLAM"
-excerpt: "<br/><img src='/images/lcs.png'>"
+excerpt: "<br/><img src='/images/courses/lcs.png'>"
 collection: coursework
 ---
 

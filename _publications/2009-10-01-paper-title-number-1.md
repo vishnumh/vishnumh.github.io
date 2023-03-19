@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Deployable telescopic tubular mechanisms with a steerable tongue depressor towards self-administered oral swab."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: 
+excerpt: 
+date: 
+venue: 'Frontiers in Robotics and AI'
+paperurl: 'https://www.frontiersin.org/articles/10.3389/frobt.2021.612959/full'
+citation: 'Kumar, K. S., Nguyen, T. D., Kalairaj, M. S., Hema, V. M., Cai, C. J., Huang, H., Lim, C. M., & Ren, H. (2021). Deployable telescopic tubular mechanisms with a steerable tongue depressor towards self-administered oral swab. Frontiers in Robotics and AI, 8, 612959. https://doi.org/10.3389/frobt.2021.612959'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

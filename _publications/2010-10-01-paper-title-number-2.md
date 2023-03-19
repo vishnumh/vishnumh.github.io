@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Upper and Lower limb interchangeable Exoskeleton-robot for post stroke rehabilitation."
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: 
+excerpt: 
+date: 
+venue: 'The RSI 9th International Conference on Robotics and Mechatronics (an IEEE-Publishing).'
+paperurl: 'https://ieeexplore.ieee.org/document/9663510/'
+citation: 'Hema, V. M., Krishnapuram, S., Premkumar, Surya, R., Yadav, K., Saimothish, Malani, V., Karthi, Prakash, Y., Kumar, N., & Girithar. (2021). Upper and Lower limb interchangeable Exoskeleton-robot for post stroke rehabilitation. 2021 9th RSI International Conference on Robotics and Mechatronics (ICRoM), 7–12.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
