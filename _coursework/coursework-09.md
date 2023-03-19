@@ -1,7 +1,17 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Linear Control Systems and SLAM"
+excerpt: "<br/><img src='/images/lcs.png'>"
 collection: coursework
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Designed a lateral controller using Pole Placement and Model Predictive Control, and a longitudinal control using PID controller for Tesla Model 3 self-driving car. Performed EKF SLAM for estimating the vehicle state variables and deployed the algorithms in a simulator.
+
+Learning Outcomes: 
+1. State space representation, similarity transformation, Jordan decomposition. 
+2. Controllability/observability, solution of linear equations, SVD.
+3. Controllable canonical forms, observable cononical form, MIMO and kalman decomposition.
+4. Controller - PID, Pole placement, Model Predictive Control and Adaptive Controls.
+5. SLAM - Kalman filter, Extended KF, UKF. 
+ 
+Programming Language:
+Python

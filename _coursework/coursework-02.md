@@ -4,8 +4,8 @@ excerpt: "<br/><img src='/images/courses/idl.png'>"
 collection: coursework
 ---
 
-● Built a fully functional autograd driven DL framework with implementation for functional modules like Conv1D, Conv2D, LSTM, GRU and optimization algorithms including Adam, SGD and RMSprop.
-● Trained MobileNet, ConvNext Net and ResNet models from scratch for classification of person’s ID based on dataset of face images and performed face verification using cosine similarity metric.
+● Built a fully functional autograd driven DL framework with implementation for functional modules like Conv1D, Conv2D, LSTM, GRU and optimization algorithms including Adam, SGD and RMSprop.<br />
+● Trained MobileNet, ConvNext Net and ResNet models from scratch for classification of person’s ID based on dataset of face images and performed face verification using cosine similarity metric.<br />
 ● Designed an end to end system for speech to text transcription using a combination of Recurrent Neural Networks (RNNs) and Attention models, such that the system was able to transcribe a given speech utterance to its corresponding transcript. The architecture for the project was inspired from Listen Attend and Spell Paper.
 
 Learning Outcomes: 
