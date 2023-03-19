@@ -4,6 +4,6 @@ collection: teaching
 type: "Graduate course"
 permalink: 
 venue: "CMU"
-date: "Fall 2022"
+date: ""
 location: "Pitt, USA"
 ---
