@@ -13,6 +13,3 @@ Hi, I'm Vishnu M H, a final year graduate student from the College of Engineerin
 In my Graduate education, I primarily focus on Deep Learning and Computer Vision specializing in 3D vision, but with exposure to Parallel Computing Platforms. During my undergraduate education at NIT Trichy, India, I gained domain knowledge in Robotics and Autonomous Systems in both the software and hardware sectors. Also, while undergrad, I was privileged to publish papers in Frontiers in Robotics and AI Journal and IEEE Conferences.
 
 
-var sc\_project=12860581; var sc\_invisible=1; var sc\_security="5f53f180";
-
-[![hit counter](https://c.statcounter.com/12860581/0/5f53f180/1/)](https://statcounter.com/ "hit counter")
