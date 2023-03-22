@@ -1,16 +1,15 @@
 ---
-title: "Gaze based Video Summarization"
-excerpt: "Summarization results <br/><img src='/images/videosum.gif'>" 
+title: "Single view 3D Human reconstruction using Implicit functions"
+excerpt: "Reconstruction results <br/><img src='/images/pifu.png'>" 
 collection: portfolio
 ---
 
-Created scripts for the paper [Gaze-enabled Egocentric Video Summarization via Constrained Submodular Maximization](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Xu_Gaze-Enabled_Egocentric_Video_2015_CVPR_paper.pdf) from scratch. Tested out the results in videoes taken from CMU using AR glasses
+Trained a single view implicit functions based human reconstruction model using a 3D human dataset. Extended the work to multi-views using various feature-based fusions and post-fusion techniques. 
 
 Learning outcomes: 
-1. Basics of CLIP Models and Multimodal ML.
-2. Backbone - MRCNN.
-3. Optimization Techniques - Submodular Optimization, Mutual Information.
-4. Clustering Algorithm - KMeans, Greedy, Temporal Star clustering.
+1. Different representations of 3D models like Implicit functions, sine distance function, mesh, point clouds
+2. Visualization techniques for implicit functions - Marching cubes
+3. 3D Loss functions and accuracy metrics: Chamfer distance, P2S, F1 score
 
 Programming Language:
-Python, Pytorch
+Pytorch, Python

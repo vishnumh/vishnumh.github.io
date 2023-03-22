@@ -1,15 +1,18 @@
 ---
-title: "Single view 3D Human reconstruction using Implicit functions"
-excerpt: "Reconstruction results <br/><img src='/images/pifu.png'>" 
+title: "3D Object Detection and Velocity Estimation for Autonomous Vehicles"
+excerpt: "Velocity and detection results <br/><img src='/images/abmot.gif'>" 
 collection: portfolio
 ---
 
-Trained a single view implicit functions based human reconstruction model using a 3D human dataset. Extended the work to multi-views using various feature-based fusions and post-fusion techniques. 
+The idea is to not use lidar for depth and velocity estimation for AVs. To achieve this, implemented a model which combines 3D object detection and constant velocity Kalman filter tracker for AVs. 
+
+[Project Website](https://sites.google.com/view/depth-and-velocity-mono-image/home?authuser=0)
 
 Learning outcomes: 
-1. Different representations of 3D models like Implicit functions, sine distance function, mesh, point clouds
-2. Visualization techniques for implicit functions - Marching cubes
-3. 3D Loss functions and accuracy metrics: Chamfer distance, P2S, F1 score
+1. Basics of 3D object detection, constant velocity Kalman filter and Hungarian Algorithm.
+2. Backbone - CenterNet.
+3. Optimization and loss functions - Inverse sigmoid, Uncertainty based L1 loss, Behru loss, Scale Invariant loss.
+
 
 Programming Language:
-Pytorch, Python
+Python, Pytorch

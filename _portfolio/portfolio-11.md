@@ -1,21 +1,16 @@
 ---
-title: "TensorRT deployment for Birds Eye View Representation in AVs"
-excerpt: "<br/><img src='/images/bev.gif'>" 
+title: "Gaze based Video Summarization"
+excerpt: "Summarization results <br/><img src='/images/videosum.gif'>" 
 collection: portfolio
 ---
 
-Deployed a Bird’s Eye View Representation algorithm for self-driving cars in Jetson Xavier aarch64 machine. The algorithm provides road segmentation in the birds’ eye view and involves EfficientNet-b0 feature extraction model for encoding the camera and lidar input from Nu-Scenes.
-
-Accelerated the algorithm by exporting the EfficientNet feature extraction model and ResNet model into TensorRT engine via Onnx to achieve 15x speedup.
-
-[Sample code](https://github.com/vishnumh/TensorRT)
+Created scripts for the paper [Gaze-enabled Egocentric Video Summarization via Constrained Submodular Maximization](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Xu_Gaze-Enabled_Egocentric_Video_2015_CVPR_paper.pdf) from scratch. Tested out the results in videoes taken from CMU using AR glasses
 
 Learning outcomes: 
-1. Basics of Onnx and TensorRT. 
-2. Datasets- Kitti, Nuscenes (with Lidar).
-3. Experience with Jetson devices
-
-
+1. Basics of CLIP Models and Multimodal ML.
+2. Backbone - MRCNN.
+3. Optimization Techniques - Submodular Optimization, Mutual Information.
+4. Clustering Algorithm - KMeans, Greedy, Temporal Star clustering.
 
 Programming Language:
 Python, Pytorch
