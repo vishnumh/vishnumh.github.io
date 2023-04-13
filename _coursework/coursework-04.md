@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning and AI for Engineers"
-excerpt: "<br/><img src='/images/courses/mlai.png'>"
+excerpt: "<br/><img src='/images/courses/mlai.png' >"
 collection: coursework
 ---
 This course introduced the basics of Machine Learning, Deep Learning(Pytorch and TensorFlow) and Reinforcement Learning. 

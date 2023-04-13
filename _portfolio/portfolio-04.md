@@ -1,6 +1,6 @@
 ---
 title: "TensorRT deployment for Birds Eye View Representation in AVs"
-excerpt: "<br/><img src='/images/bev.gif'>" 
+excerpt: "<br/><img src='/images/bev.gif' >" 
 collection: portfolio
 ---
 

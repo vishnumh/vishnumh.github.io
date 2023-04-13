@@ -1,6 +1,6 @@
 ---
 title: "Graph based surface color reconstruction on meshes"
-excerpt: "Feature propagation results <br/><img src='/images/graph.gif'>" 
+excerpt: "Feature propagation results <br/><img src='/images/graph.gif' >" 
 collection: portfolio
 ---
 

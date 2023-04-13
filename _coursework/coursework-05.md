@@ -1,6 +1,6 @@
 ---
 title: "How to Write Fast Code"
-excerpt: "<br/><img src='/images/courses/fastcode.png'>"
+excerpt: "<br/><img src='/images/courses/fastcode.png' >"
 collection: coursework
 ---
 

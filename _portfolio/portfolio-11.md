@@ -1,6 +1,6 @@
 ---
 title: "Gaze based Video Summarization"
-excerpt: "Summarization results <br/><img src='/images/videosum.gif'>" 
+excerpt: "Summarization results <br/><img src='/images/videosum.gif' >" 
 collection: portfolio
 ---
 

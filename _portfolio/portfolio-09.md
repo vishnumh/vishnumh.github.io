@@ -1,6 +1,6 @@
 ---
 title: "SIMD-kernel-for-QR-decompostion (3D-Reconstruction)"
-excerpt: "SIMD kernel and results <br/><img src='/images/qr.png'>" 
+excerpt: "SIMD kernel and results <br/><img src='/images/qr.png' >" 
 collection: portfolio
 ---
 

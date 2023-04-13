@@ -1,6 +1,6 @@
 ---
 title: "Visual Learning and Recognition (Deep Learning for Computer Vision)"
-excerpt: "<br/><img src='/images/courses/vlr.gif'>"
+excerpt: "<br/><img src='/images/courses/vlr.gif' >"
 collection: coursework
 ---
 

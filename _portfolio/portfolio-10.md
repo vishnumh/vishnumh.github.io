@@ -1,6 +1,6 @@
 ---
 title: "RRT Planner and OpenGL based game"
-excerpt: "Visualization of the game and planner <br/><img src='/images/opengl.gif'>" 
+excerpt: "Visualization of the game and planner <br/><img src='/images/opengl.gif' >" 
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Deep Learning"
-excerpt: "<br/><img src='/images/courses/idl.png'>"
+excerpt: "<br/><img src='/images/courses/idl.png' >"
 collection: coursework
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "3D Garment extraction using cloth landmarks"
-excerpt: "Garment parsing results <br/><img src='/images/garmentparsing.png'>" 
+excerpt: "Garment parsing results <br/><img src='/images/garmentparsing.png' >" 
 collection: portfolio
 ---
 

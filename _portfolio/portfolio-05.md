@@ -1,6 +1,6 @@
 ---
 title: "Voxel based texture completion for human meshes"
-excerpt: "Reconstruction results <br/><img src='/images/voxel.gif'>" 
+excerpt: "Reconstruction results <br/><img src='/images/voxel.gif' >" 
 collection: portfolio
 ---
 

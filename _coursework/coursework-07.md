@@ -1,6 +1,6 @@
 ---
 title: "Trustworthy AI"
-excerpt: "<br/><img src='/images/courses/safeai.png'>"
+excerpt: "<br/><img src='/images/courses/safeai.png' >"
 collection: coursework
 ---
 

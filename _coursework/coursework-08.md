@@ -1,6 +1,6 @@
 ---
 title: "Basics of C++, OOPs and OpenGL"
-excerpt: "<br/><img src='/images/courses/ecomp.gif'>"
+excerpt: "<br/><img src='/images/courses/ecomp.gif' >"
 collection: coursework
 ---
 

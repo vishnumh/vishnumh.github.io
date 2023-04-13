@@ -1,6 +1,6 @@
 ---
 title: "Computer Vision"
-excerpt: "<br/><img src='/images/courses/cvb.png'>"
+excerpt: "<br/><img src='/images/courses/cvb.png' >"
 collection: coursework
 ---
 

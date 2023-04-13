@@ -1,6 +1,6 @@
 ---
 title: "SMPLX regression from images"
-excerpt: "SMPLX fitting results <br/><img src='/images/smplx.gif'>" 
+excerpt: "SMPLX fitting results <br/><img src='/images/smplx.gif' >" 
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Learning for 3D Vision"
-excerpt: "<br/><img src='/images/courses/3dv.gif'>"
+excerpt: "<br/><img src='/images/courses/3dv.gif' >"
 collection: coursework
 ---
 
