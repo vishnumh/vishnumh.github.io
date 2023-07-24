@@ -6,7 +6,7 @@ collection: portfolio
 
 Explored graph-based feature propagation method for color reconstruction in meshes. 
 
-Learning outcomes : 
+Topic Covered : 
 1. Introduction to Pytorch Geometric. 
 2. Graph Neural Networks.
 
