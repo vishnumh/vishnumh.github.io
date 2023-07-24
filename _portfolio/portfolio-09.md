@@ -8,7 +8,7 @@ Fundamental Matrix Estimation is the heaviest part of the 3D reconstruction. In 
 
 [code and presentation](https://github.com/vishnumh/SIMD-kernel-for-QR-decompostion_3D-Reconstruction)
 
-Learning outcomes: 
+Topic Covered: 
 1. Basics of SIMD Kernels, OpenMP. 
 2. Architecture based kernel datalayout.
 3. Optimization of Latency for Haswell architecture.
