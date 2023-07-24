@@ -10,7 +10,7 @@ Accelerated the algorithm by exporting the EfficientNet feature extraction model
 
 [Sample code](https://github.com/vishnumh/TensorRT)
 
-Learning outcomes: 
+Topic Covered: 
 1. Basics of Onnx and TensorRT. 
 2. Datasets- Kitti, Nuscenes (with Lidar).
 3. Experience with Jetson devices
