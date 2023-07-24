@@ -9,7 +9,7 @@ These are few of my projects related to the course [24-780](https://www.meche.en
 [Planner Code](https://github.com/vishnumh/Robot-Planner-and-Visualization)
 [Game Code](https://github.com/vishnumh/OpenGL_Game)
 
-Learning outcomes: 
+Topic Covered: 
 1. Basics of RRT and OpenGL.
 
 Programming Language:
